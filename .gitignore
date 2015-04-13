@@ -1,0 +1,7 @@
+*.user
+*.suo
+*.bak
+
+#=============ac.core ignore
+achuan.nuget/bin/
+achuan.nuget/obj/
